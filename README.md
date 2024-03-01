@@ -1,1 +1,1 @@
-# coffee-shop
+Setting up the basic structure of the website using HTML. Styling the website to perfection with CSS, including layout design, typography, and color schemes. Adding interactive elements and functionality using JavaScript, such as a dynamic menu, image sliders, and contact form.
